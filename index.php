@@ -4,4 +4,3 @@ require 'core/function.php';
 
 require 'core/router.php';
 //require 'views/index.php';
-
