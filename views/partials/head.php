@@ -73,6 +73,7 @@
               <i class="fa fa-user" aria-hidden="true"></i>
               <span>
                 Login
+                <a href="/admin"> Admin</a>
               </span>
             </a>
             <a href="">

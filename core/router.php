@@ -22,6 +22,10 @@ switch ($requestURL) {
         # code...
         require 'controllers/why.php';
         break;
+    case '/admin':
+        # code...
+        require 'controllers/admin.php';
+        break;
     default:
         # code...
         require 'views/404.php';
